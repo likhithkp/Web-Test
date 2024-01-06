@@ -1,1 +1,2 @@
-let a = 22;
+const name = "Likhith";
+const age = 22;
