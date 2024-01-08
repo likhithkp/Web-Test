@@ -1,1 +1,1 @@
-print("HEllo")
+console.log("JAvascript")
