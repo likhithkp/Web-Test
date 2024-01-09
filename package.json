@@ -6,5 +6,12 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@html-eslint/eslint-plugin": "^0.22.0",
+    "@html-eslint/parser": "^0.22.0",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
   }
 }
